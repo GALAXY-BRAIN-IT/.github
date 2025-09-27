@@ -1,1 +1,1 @@
-# .github
+# AI FOR EVERYONE
