@@ -3,7 +3,7 @@
 ![thumbnail](https://cdn-uploads.huggingface.co/production/uploads/68d7d0ef7dfb55ed617dd48d/O-xnscc_p5qGbEvILDSze.jpeg)
 # GALAXY MIND AI LABS
 
-Welcome to the official Hugging Face organization for Galaxy Mind AI Labs.  
+Welcome to the official GitHub organization for Galaxy Mind AI Labs.  
 We are a non-profit startup dedicated to open research in large-scale machine learning, multimodal systems, and agent-based frameworks.
 
 ---
